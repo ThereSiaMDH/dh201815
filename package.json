@@ -1,0 +1,22 @@
+{
+  "name": "dh201815",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThereSiaMDH/dh201815.git"
+  },
+  "author": "Theresia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThereSiaMDH/dh201815/issues"
+  },
+  "homepage": "https://github.com/ThereSiaMDH/dh201815#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
